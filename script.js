@@ -39,7 +39,7 @@ const maze = [
 ];
 
 // Initial positions
-const player = { x: 6, y: 4 };       // Player starting position
+const player = { x: 5, y: 6 };       // Player starting position
 const whiteHeartPos = { x: 11, y: 8 }; // White heart position (winning point)
 const blackHeartPos = { x: 1, y: 1 };  // Black heart position (obstacle)
 
